@@ -6,17 +6,21 @@
 
 This is a simple project that I did to try and experiment with something that fascinated me--using parallax to create the appearance of interaction in a three dimensional environment (think x, y, z axis). 
 
-I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfield.com/parallax/) for the javascript. With the help of the library it wasn't very hard to do.  
+#What does it do?
+
+The parallax effect assigns x, y, and z values to separate graphic elements and then calculates actions and movement in response to the movement of the mouse or to the tilt of the tablet if you are on a tablet or phone with an accelerometer.  
+
+I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfield.com/parallax/) for the javascript. Therefore I cannot take credit for the logic that controls the motion.  
 
 ###What did I do?  
 
-* identified something I didn't know and found a way to learn it
-* wireframed the project in Photoshop
-* created a custom logo in Photoshop
-* created 5 other .png files as graphics
-* created the custom CSS in CSS# o work with javascript files
-* created the HTML in HTML5
-* 
+* identified something I didn't know and found a way to learn it.
+* wireframed the project in Photoshop.
+* created a custom logo in Photoshop.
+* created 5 other .png files as graphics.
+* created the custom CSS in CSS# o work with javascript files.
+* created the HTML in HTML5.
+* accomplished a goal I didn't think I'd be able to do when I began the course.
 All the graphics are my own and were created in Photoshop.    
 
 ###So how can I see more of your work?
