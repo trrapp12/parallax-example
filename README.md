@@ -29,6 +29,13 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 <br/>
 <br/>
 
+###Project published at: 
+---
+
+[parrallax-example](http://trrapp12.github.io/parallax-example/)
+<br/>
+<br/>
+
 ###More Information:
 ---
 
