@@ -6,48 +6,30 @@
 
 This is a simple project that I did to try and experiment with something that fascinated me--using parallax to create the appearance of interaction in a three dimensional environment (think x, y, z axis). 
 
-#What does it do?
+###Description:
+---
 
 The parallax effect assigns x, y, and z values to separate graphic elements and then calculates actions and movement in response to the movement of the mouse or to the tilt of the tablet if you are on a tablet or phone with an accelerometer.  
 
 I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfield.com/parallax/) for the javascript. Therefore I cannot take credit for the logic that controls the motion.  
+<br/>
+<br/>
 
-###What did I do?  
+###Project demonstrates the following:
+---
 
-* identified something I didn't know and found a way to learn it.
-* wireframed the project in Photoshop.
-* created a custom logo in Photoshop.
-* created 5 other .png files as graphics.
-* created the custom CSS in CSS# o work with javascript files.
-* created the HTML in HTML5.
-* accomplished a goal I didn't think I'd be able to do when I began the course.
-All the graphics are my own and were created in Photoshop.    
+- [x] Ability to teach myself interests outside of formal instruction.
+- [x] Integration of Photoshop layers and images in wireframing.
+- [x] Create a custom logo in Photoshop.
+- [x] Created the custom CSS using CSS3.
+- [x] Integration of JavaScript libraries.
+- [x] Use of HTML5.
+- [x] Accomplish a goal I didn't think I'd be able to do when I began the course.
+- [x] All art assets created by myself in Photoshop.
+<br/>
+<br/>
 
-###So how can I see more of your work?
+###More Information:
+---
 
-You can check-out these sites.
-
-* [Portfolio](http://web-karma.org/)  A web-page I built as a web-dev portfolio
-* [GitHub](https://github.com/trrapp12)  My GitHub account
-* [PyCart](https://github.com/Pycart/PyCart-Backend)  An open-source E-commerce site I've contributed to
-* [Recipe Organizer web-app](http://recipes.web-karma.org/#/recipes)  A Django/RESTAngular web-app with CRUD functionality
-* [CrowdWire](http://crowdwire.net/#/add-event)  Designed the front-end of this app including examples of parallax that are responsive to user handmovement and accelerometer/gyrometer.
-* [Pokemon API](https://github.com/trrapp12/Project-repository/blob/master/Coding%20Bat/pokemon.js) A funtional API call I built.
-* [CodePink](https://github.com/trrapp12/code_pink) A project I'm working on to get CSV files, parse through them, and then use it to blast a hospital wide amber-alert.
-* [LinkedIn](https://www.linkedin.com/pub/trevor-rapp/37/a10/42) My LinkedIn.
-* [Twitter](https://twitter.com/RappTrevor) My twitter account.
-* [Instagram](https://instagram.com/trevor.rapp/) My Instagram with examples of my photography.
-* [Photoblog](https://trappphotography.wordpress.com/) A photoblog with examples of my photography.
-
-###Okay, okay...I'll check you out. But how can I get back with you?
-
-Awesome!  I'd love to hear from you. 
-
-You can contact me at trrapp@gmail.com.
-</br>
-</br>
-</br>
-</br>
-CHEERS!
-
---Trevor Rapp
+\**For more information see my [Portfolio] (), [Webpage](http://web-karma.org),[LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), [Blog](http://web-karma.net), or return to my [Github](https://github.com/trrapp12)*
