@@ -1,12 +1,12 @@
 # parallax-example
 
-#####Trevor Rapp
+##### Trevor Rapp
 ![banneriv 1](https://cloud.githubusercontent.com/assets/11747875/8297842/3c12dc52-191e-11e5-996c-c720329986a7.jpg)
 
 
 <sub>*This is a simple project that I did to try and experiment with something that fascinated me--using parallax to create the appearance of interaction in a three dimensional environment (think x, y, z axis).*</sub>
 
-###Description:
+### Description:
 ---
 
 The parallax effect assigns x, y, and z values to separate graphic elements and then calculates actions and movement in response to the movement of the mouse or to the tilt of the tablet if you are on a tablet or phone with an accelerometer.  
@@ -15,7 +15,7 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 <br/>
 <br/>
 
-###Project demonstrates the following:
+### Project demonstrates the following:
 ---
 
 - [x] Ability to teach myself interests outside of formal instruction.
@@ -29,14 +29,14 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 <br/>
 <br/>
 
-###Project published at: 
+### Project published at: 
 ---
 
 [parrallax-example](http://trrapp12.github.io/parallax-example/)
 <br/>
 <br/>
 
-###More Information:
+### More Information:
 ---
 
 \**For more information see my [Portfolio] (), [Webpage](http://web-karma.org),[LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), [Blog](http://web-karma.net), or return to my [Github](https://github.com/trrapp12)*
