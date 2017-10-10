@@ -1,4 +1,4 @@
-# parallax-example
+# Parallax Example
 
 ##### Trevor Rapp
 ![banneriv 1](https://cloud.githubusercontent.com/assets/11747875/8297842/3c12dc52-191e-11e5-996c-c720329986a7.jpg)
