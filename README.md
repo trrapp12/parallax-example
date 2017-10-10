@@ -12,8 +12,6 @@
 The parallax effect assigns x, y, and z values to separate graphic elements and then calculates actions and movement in response to the movement of the mouse or to the tilt of the tablet if you are on a tablet or phone with an accelerometer.  
 
 I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfield.com/parallax/) for the javascript. Therefore I cannot take credit for the logic that controls the motion.  
-<br/>
-<br/>
 
 ### Project demonstrates the following:
 ---
@@ -26,15 +24,11 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 - [x] Use of HTML5.
 - [x] Accomplish a goal I didn't think I'd be able to do when I began the course.
 - [x] All art assets created by myself in Photoshop.
-<br/>
-<br/>
 
 ### Project published at: 
 ---
 
 [parrallax-example](http://trrapp12.github.io/parallax-example/)
-<br/>
-<br/>
 
 ### More Information:
 ---
