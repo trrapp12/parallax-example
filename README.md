@@ -3,8 +3,8 @@
 ##### Trevor Rapp
 ![banneriv 1](https://cloud.githubusercontent.com/assets/11747875/8297842/3c12dc52-191e-11e5-996c-c720329986a7.jpg)
 <br />
-<br />
-<a href="https://imgflip.com/gif/1y1jlf"><img src="https://i.imgflip.com/1y1jlf.gif" title="made at imgflip.com"/></a>
+<br />![parallax](https://user-images.githubusercontent.com/11747875/32681057-d486c3b6-c62a-11e7-9005-3ea0c2236f0c.gif)
+
 
 <sub>*This is a simple project that I did to try and experiment with something that fascinated me--using parallax to create the appearance of interaction in a three dimensional environment (think x, y, z axis).*</sub>
 
