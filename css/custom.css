@@ -1,6 +1,6 @@
 #bg {
     background: #0c0c0c url(../images/background.jpg) no-repeat top center;
-    height: 100%;
+    min-height: 100%;
     margin-top: 50px;
 }
 
