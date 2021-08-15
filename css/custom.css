@@ -1,5 +1,9 @@
+/*font-family: 'Cinzel', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Poppins', sans-serif;*/
+
 #bg {
-    background: #0c0c0c url(../images/background.jpg) no-repeat top center;
     min-height: 100%;
     margin-top: 50px;
 }
@@ -42,12 +46,75 @@
     float: left;
 }
 
+body {
+	background: #0c0c0c url(../images/background.jpg) no-repeat top center;
+	border: none;
+	padding: none;
+	min-height: 100%;
+}
 
+p {
+	color: white;
+	margin: 1rem;
+	font-family: 'Cinzel', serif;
+}
+
+li {
+	color: white;
+	margin: .5rem;
+	font-family: 'Cinzel', serif;
+}
+
+h3 {
+	margin: 1.5rem;
+	color: gray;
+	font-size: 2em;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
+	font-style: thin;
+}
+
+ul {
+	margin: 2rem;
+}
+
+hr {
+	display: block;
+unicode-bidi: isolate;
+margin-block-start: 0.5em;
+margin-block-end: 0.5em;
+margin-inline-start: auto;
+margin-inline-end: auto;
+margin-bottom: 3em;
+overflow: hidden;
+overflow-x: hidden;
+overflow-y: hidden;
+border-style: inset;
+border-top-style: inset;
+border-right-style: inset;
+border-bottom-style: inset;
+border-left-style: inset;
+border-width: 1px;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+}
+
+.center-column {
+	 margin: 0 10% 0 10%;
+}
+
+.increase-z-index {
+	z-index: 30;
+	position: absolute;
+	top: 50%;
+}
 /*This is the end of the parallax CSS*/
 
 #footer {
-    width: 100%
-    margin-top: 1500px;
+  width: 100%
+  margin-top: 1500px;
 }
 
 #footerimage {
