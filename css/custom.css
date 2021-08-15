@@ -4,10 +4,9 @@ font-family: 'Poiret One', cursive;
 font-family: 'Poppins', sans-serif;*/
 
 #bg {
+	  margin-top: 50px;
     min-height: 100%;
-    margin-top: 50px;
 }
-
 
 /*This is the beginning of the parallax CSS*/
 #centerpiece {
@@ -25,14 +24,12 @@ font-family: 'Poppins', sans-serif;*/
 	margin-left: 50px;
     margin-top: 120px;
     z-index: 5;
-
 }
 
 #smallpins {
 	/*margin-left: 0px;*/
     margin-top: 80px;
     z-index: 1;
-
 }
 
 
