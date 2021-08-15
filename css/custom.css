@@ -46,6 +46,15 @@ font-family: 'Poppins', sans-serif;*/
     float: left;
 }
 
+a {
+	    margin: 1.5rem 20% 1.5rem 20%;
+	color: gray;
+	font-size: 1em;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
+	font-style: thin;
+	width: 10%;
+}
 body {
 	background: #0c0c0c url(../images/background.jpg) no-repeat top center;
 	border: none;
@@ -55,14 +64,15 @@ body {
 
 p {
 	color: white;
-	margin: 1rem;
+	margin: 8rem;
+	line-height: 200%;
 	font-family: 'Cinzel', serif;
 }
 
 li {
 	color: white;
-	margin: .5rem;
 	font-family: 'Cinzel', serif;
+	margin: 1rem 0 1rem 3rem;
 }
 
 h3 {
@@ -110,13 +120,16 @@ border-left-width: 1px;
 	position: absolute;
 	top: 50%;
 }
+
+.bottom-li-spacing {
+	margin-bottom: 8rem;
+}
+.top-li-spacing {
+	margin-top: 8rem;
+}
+
+.link-spacing {
+	width: 50%;
+	margin: auto;
+}
 /*This is the end of the parallax CSS*/
-
-#footer {
-  width: 100%
-  margin-top: 1500px;
-}
-
-#footerimage {
-
-}
