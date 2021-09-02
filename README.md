@@ -7,7 +7,14 @@
 
 
 <sub>*This is a simple project that I did to try and experiment with something that fascinated me--using parallax to create the appearance of interaction in a three dimensional environment (think x, y, z axis).*</sub>
+---
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br>
+
+---
 ### Description:
 ---
 
@@ -35,4 +42,4 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 ### More Information:
 ---
 
-\**For more information see my [Portfolio] (), [Webpage](http://web-karma.org),[LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), [Blog](http://web-karma.net), or return to my [Github](https://github.com/trrapp12)*
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
