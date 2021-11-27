@@ -9,8 +9,7 @@
 <br>
 
 ##### Trevor Rapp
-![banneriv 1](https://cloud.githubusercontent.com/assets/11747875/8297842/3c12dc52-191e-11e5-996c-c720329986a7.jpg)
-<br />
+
 <br />![Sapphire Gif](https://user-images.githubusercontent.com/11747875/143719089-ed30db30-f05c-4065-99e3-475c9e0620e1.gif)
 
 
