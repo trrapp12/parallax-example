@@ -67,7 +67,7 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 ### Project published at: 
 ---
 
-[parrallax-example](http://trrapp12.github.io/parallax-example/)
+[Sapphire](http://trrapp12.github.io/parallax-example/)
 
 ### More Information:
 ---
