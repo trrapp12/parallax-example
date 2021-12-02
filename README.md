@@ -1,5 +1,13 @@
 # Parallax Example
 
+---
+
+<br>
+
+[![Button60](https://user-images.githubusercontent.com/11747875/141838892-b03090d7-30e4-4122-8d21-3ad2dd9aa7a6.png)](http://trrapp12.github.io/parallax-example/)
+
+<br>
+
 ##### Trevor Rapp
 ![banneriv 1](https://cloud.githubusercontent.com/assets/11747875/8297842/3c12dc52-191e-11e5-996c-c720329986a7.jpg)
 <br />
@@ -7,7 +15,14 @@
 
 
 <sub>*This is a simple project that I did to try and experiment with something that fascinated me--using parallax to create the appearance of interaction in a three dimensional environment (think x, y, z axis).*</sub>
+---
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br>
+
+---
 ### Description:
 ---
 
@@ -35,4 +50,6 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 ### More Information:
 ---
 
-\**For more information see my [Portfolio] (), [Webpage](http://web-karma.org),[LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), [Blog](http://web-karma.net), or return to my [Github](https://github.com/trrapp12)*
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+
+
