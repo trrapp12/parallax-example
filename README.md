@@ -1,5 +1,8 @@
 # Parallax Example
 
+
+##### Contributors: Trevor Rapp
+
 ---
 
 <br>
