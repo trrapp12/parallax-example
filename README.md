@@ -65,9 +65,6 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 🆕 All art assets created by myself in Photoshop.
 
-<br>
-<br>
-
 ---
 
 ### CHALLENGES I OVERCAME...
