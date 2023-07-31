@@ -67,7 +67,7 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 
 ### QUICKSTART GUIDE: 
 
-To use the app simply click on the ```View Project``` button or visit https://gentle-monstera-8c285d.netlify.app/. 
+To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/parallax-example/">https://trrapp12.github.io/parallax-example/</a>. 
 
 ---
 
