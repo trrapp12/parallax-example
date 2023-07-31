@@ -41,6 +41,11 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 
 ---
 
+### QUICKSTART GUIDE: 
+
+To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/parallax-example/">https://trrapp12.github.io/parallax-example/</a>. 
+
+---
 
 ### THIS PROJECT DEMONSTRATES:
 
@@ -62,40 +67,6 @@ I used the parallax.js library from [Matthew Wagerfield](http://matthew.wagerfie
 
 <br>
 <br>
-
----
-
-### QUICKSTART GUIDE: 
-
-To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/parallax-example/">https://trrapp12.github.io/parallax-example/</a>. 
-
----
-
-### THIS PROJECT DEMONSTRATES:
-
-🆕 CRD (create, read, delete) functionality with a firebase database
-
-🆕 deploy progressive web app to Netlify
-
-🆕 Utilizing getDatabase(), ref(), push(), onValue(), and remove() methods for firebase database
-
-🆕 Creating and importing utility functions
-
-🆕 Dynamically creating, assigning attributes, and appending nested elements in vanilla javascript
-
-🆕 Using webmanifest
-
-🆕 Converting objects to arrays
-
-🆕 Mapping through arrays
-
-🆕 String literals 
-
-🆕 Flex-box
-
-🆕 Responsive, mobile first design
-
-🆕 Utilizing git and github for CVN
 
 ---
 
