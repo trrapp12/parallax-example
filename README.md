@@ -1,7 +1,7 @@
 # Parallax Example
 
 
-##### Contributors: Trevor Rapp
+#### Contributors: Trevor Rapp
 
 ---
 
