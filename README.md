@@ -1,7 +1,7 @@
 # Parallax Example
 
 
-#### Contributors: Trevor Rapp
+#### Contributors: Trevor Rapp, Matthew Wagerfield ( @mwagerfield )
 
 ---
 
@@ -77,13 +77,14 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
-- [X] The third party library is obviously not mine, but all artwork and other work is my own.
+- [X] For me this was an elementary attempt to work with a previously written library, 
 
 ---
 
 ### ATTRIBUTIONS
 
-All artwork is my own
+* Parallax library written by Matthew Wagerfield - @mwagerfield
+* All artwork is my own
 
 ---
 
